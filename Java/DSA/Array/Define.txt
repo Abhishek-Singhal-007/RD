@@ -1,0 +1,12 @@
+-Array
+    -Continuoyus memory allocation
+    -Random access 
+    -Cache friendly
+    
+-CRUD
+    -create
+    -read
+    -update
+    -delete
+    -search
+        -based on menu search program by switch case
