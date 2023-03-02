@@ -1,0 +1,63 @@
+	Data base
+	-SQL based
+		-MySQL
+		-MsSQL	
+		-Mariadb
+		-Amazon Arena
+	
+	-NoSQL basd
+		-Dynamo db
+		-Mongo db
+
+
+******************************************************
+
+	-Skills
+		-c/c  /Java
+
+	-Core Languages
+		-java / JavaScript / Python
+
+	-Web Development
+		-Full Stack / UI-UX
+
+	-Front End
+		-Html5
+		-CSS3
+		-JavaScript
+		-JQuery
+		-BootStrap
+		-SASS
+		-Tailwind
+		-TypeScript , React , Angular
+
+	-Backend
+		-Node.js
+		-Django
+		-Spring , Hibernate-
+
+	-Database
+		-MongoDB
+		-MySQL
+
+	-UI-UX Tool
+		-Photoshop
+		-Illustration
+		-Figma
+
+-Projects
+
+
+
+*******************************************************
+
+	-Data Science
+		-Programming
+		-Maths
+
+	-Python
+	-R programming
+
+	-Big Data
+		-Spark
+		-Python + Spark = PySpark
