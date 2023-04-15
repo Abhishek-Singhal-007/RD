@@ -1,0 +1,17 @@
+Task Manager
+
+com.companyName.projectName.views
+    view.java
+        take choice as input from user
+            1. Enter new task :
+            2. Print all task :
+            3. Delete task :
+            4. Update task :
+        ex:-
+            Enter your choice : 1
+            Enter task name :
+            Enter task desc : ....
+
+com.companyName.projectName.tasks
+    task.java
+        
